@@ -10610,19 +10610,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Hi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT Aptech\\ky 3\\visual\\project1\\Web-Development-with-ASP.NET-MVC-and-CORE\\ExamEmployee\\ExamEmployee\\ExamEmployee.csproj",
+      "projectUniqueName": "C:\\Users\\Hi\\source\\repos\\MvcMovie\\Web-Development-with-ASP.NET-MVC-and-CORE\\ExamEmployee\\ExamEmployee\\ExamEmployee.csproj",
       "projectName": "ExamEmployee",
-      "projectPath": "D:\\FPT Aptech\\ky 3\\visual\\project1\\Web-Development-with-ASP.NET-MVC-and-CORE\\ExamEmployee\\ExamEmployee\\ExamEmployee.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT Aptech\\ky 3\\visual\\project1\\Web-Development-with-ASP.NET-MVC-and-CORE\\ExamEmployee\\ExamEmployee\\obj\\",
+      "projectPath": "C:\\Users\\Hi\\source\\repos\\MvcMovie\\Web-Development-with-ASP.NET-MVC-and-CORE\\ExamEmployee\\ExamEmployee\\ExamEmployee.csproj",
+      "packagesPath": "C:\\Users\\Hi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hi\\source\\repos\\MvcMovie\\Web-Development-with-ASP.NET-MVC-and-CORE\\ExamEmployee\\ExamEmployee\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

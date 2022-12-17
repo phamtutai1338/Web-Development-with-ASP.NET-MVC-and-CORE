@@ -21,8 +21,8 @@ namespace ExamEmployee.Models
                 context.Employee.AddRange(
                     new Employee
                     {
-                        Title = "Huy",
-                        ReleaseDate = DateTime.Parse("1989-2-12"),
+                        Title = "TAI",
+                        ReleaseDate = DateTime.Parse("2003-9-18"),
                         Derpartment = "HR",
                         Salary = 7.99M
                     },
